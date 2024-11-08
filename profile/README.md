@@ -12,7 +12,7 @@ Equipe de desenvolvimento para realização das API (Aprendizado por Projeto Int
 | :------- | :------------------------------------------------------------------------ | :----------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | 2º SEM   | [Bike4You](https://github.com/DevsDomain/Bike4you)                        | [GensApps]()                               | Aplicação Web para aluguéis de bike Peer-to-Peer              | [Repositório](https://github.com/DevsDomain/Bike4you)                                                          |
 | 3º SEM   | [D-Tracker](https://github.com/DevsDomain/D-Traker)                       | [Visiona Espacial](https://visionaespacial.com/) | Sistema para gerenciamento de Projetos                         | [Repositório](https://github.com/DevsDomain/D-Traker)                                                           |
-| 4º SEM   | [D-Nutri](https://github.com/DevsDomain/D-Nutri)                          | [Projeto em elaboração]                   | Aplicação de auxílio na alimentação                           | [Repositório](https://github.com/DevsDomain/D-Nutri)                                                            |
+| 4º SEM   | [D-Nutri](https://github.com/DevsDomain/D-Nutri)                          | [FATEC-Jacareí](https://fatecjacarei.cps.sp.gov.br/) | Aplicação de auxílio na alimentação                           | [Repositório](https://github.com/DevsDomain/D-Nutri)                                                            |
 
 </div>
 
