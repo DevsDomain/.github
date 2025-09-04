@@ -14,7 +14,7 @@ Equipe de desenvolvimento para realização das API (Aprendizado por Projeto Int
 | 3º SEM     | [D-Tracker](https://github.com/DevsDomain/D-Traker)                       | [Visiona Espacial](https://visionaespacial.com/) | Sistema para gerenciamento de Projetos                         | [Repositório](https://github.com/DevsDomain/D-Traker)                                                           |
 | 4º SEM   | [D-Nutri](https://github.com/DevsDomain/D-Nutri)                          | [FATEC-Jacareí](https://fatecjacarei.cps.sp.gov.br/) | Aplicação de auxílio na alimentação                           | [Repositório](https://github.com/DevsDomain/D-Nutri)                                                            |
 | 5º SEM   | [D-FireTrack](https://github.com/DevsDomain/D-FireTrack)                          | [Visiona Espacial](https://visionaespacial.com/) | Aplicação Web de Mapeamento Automático de Cicatrizes de Queimadas                           | [Repositório](https://github.com/DevsDomain/D-FireTrack)                                                            |
-| 6º SEM   | [Projeto](https://github.com/DevsDomain/D-care)                          | [FATEC-Jacareí](https://fatecjacarei.cps.sp.gov.br/)  | Aplicação Web | [Repositório](https://github.com/DevsDomain)       
+| 6º SEM   | [Projeto](https://github.com/DevsDomain)                          | [FATEC-Jacareí](https://fatecjacarei.cps.sp.gov.br/)  | Aplicação Web | [Repositório](https://github.com/DevsDomain)       
 </div>
 
 
